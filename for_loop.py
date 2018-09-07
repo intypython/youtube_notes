@@ -1,9 +1,4 @@
-
-
-
-my_list=["jake","Tom","xi li"]
-
-
+my_list = ["jake", "Tom", "xi li"]
 
 # for name in my_list:
 #     print(name)
@@ -13,4 +8,6 @@ my_list=["jake","Tom","xi li"]
 
 
 for letter in 'inty':
-    print("each letter is: "+letter)
+    print("each letter is: " + letter)
+
+'''这是github的demo'''
