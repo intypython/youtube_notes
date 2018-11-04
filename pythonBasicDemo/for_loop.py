@@ -11,3 +11,5 @@ for letter in 'inty':
     print("each letter is: " + letter)
 
 '''这是github的demo'''
+for letters in 'inty1':
+    print (7)
