@@ -14,4 +14,4 @@ for letter in 'inty':
 for letters in 'inty1':
     print (7)
 for letters in 'inty2':
-    print (8)
+    
