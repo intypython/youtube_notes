@@ -13,3 +13,5 @@ for letter in 'inty':
 '''这是github的demo'''
 for letters in 'inty1':
     print (7)
+for letters in 'inty2':
+    print (8)
