@@ -13,3 +13,6 @@ def m1():
 
 def m2():
     pass
+
+def m3():
+    pass
