@@ -10,3 +10,6 @@ def test_method1():
 
 def m1():
     pass
+
+def m2():
+    pass
